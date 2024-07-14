@@ -12,15 +12,16 @@
   },
   "dependencies": {
     "big.js": "^6.2.1",
-    "openai": "^4.27.0",
-    "lodash": "^4.17.21",
-    "near-api-js": "^0.45.1",
     "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "near": "^0.2.2",
+    "near-api-js": "^0.45.1",
     "node-fetch": "^2.6.1",
+    "openai": "^4.27.0",
     "winston": "^3.8.2"
   },
   "devDependencies": {
-    "prettier": "^2.2.1",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.6",
+    "prettier": "^2.2.1"
   }
 }
