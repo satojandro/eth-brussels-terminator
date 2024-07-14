@@ -7,3 +7,6 @@ The Terminator Governor is the name we've given to our next-gen AI Governance Ag
 1. Deployed our own AI Oracle on NEAR Testnet that requests and receives prompts from OpenAI (Original repo https://github.com/evgenykuzyakov/onchain-ai)
 2. Established chain signatures with Ethereum to be able to sign DAO proposals on any EVM
 
+ # Development resources
+- Near Documentation (https://docs.near.org/)
+- DAO Governance (https://docs.openzeppelin.com/contracts/4.x/api/governance)
